@@ -1,0 +1,11 @@
+# Rust build output
+/target/
+
+# IDE/Editor files
+**/*.swp
+**/*.swo
+.DS_Store
+.vscode/
+
+# Optional: lock file for libraries (for binaries OK, for libs maybe no)
+/Cargo.lock
